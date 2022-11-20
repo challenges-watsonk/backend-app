@@ -18,3 +18,4 @@ The program will output the list of the top 10 most occurring triplets in the lo
 ["/thank-you", "user_2"]
 ```
 - Every record in the `logFile` array is a valid tuple with a defined `request_path` and `user_id` string, in that order.
+- This challenge does not require unit tests.
